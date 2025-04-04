@@ -1,0 +1,10 @@
+ipykernel
+langchain_community
+bs4
+pypdf
+langchain-community faiss-gpu
+openai
+tiktoken
+faiss-gpu
+wikipedia
+arxiv
